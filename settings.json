@@ -2,8 +2,8 @@
   "name": "Server-bot"
   "bot-account": {
     "username": "Server-bot",
-    "password": "123123",
-    "type": "online"
+    "password": "",
+    "type": "offline"
   },
   "server": {
     "ip": "Countryboxpvp.aternos.me",
