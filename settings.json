@@ -1,6 +1,6 @@
 {
   "name": "Server-bot"
-  "bot-account": {
+  "bot-account": true {
     "username": "Server-bot",
     "password": "",
     "type": "offline"
