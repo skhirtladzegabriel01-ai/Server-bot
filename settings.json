@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a regular player!"
+        "im not a bot"
+        "I like to play Minecraft!"              
       ]
     },
     "chat-log": true,
@@ -43,7 +43,7 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": true {
       "enabled": true,
       "radius": 4,
       "speed": 3000
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
